@@ -13,3 +13,22 @@
 {"date":"2026-11-26","session":"2026-11-26-01","skill":"Архитектура: отличить архитектуру ИС от архитектуры ПО","format":"definition","result":"correct","uncertain":false}
 {"date":"2026-11-26","session":"2026-11-26-01","skill":"Методы проектирования: распознать модельно-ориентированное проектирование","format":"choice","result":"correct","uncertain":false}
 {"date":"2026-11-26","session":"2026-11-26-01","skill":"ИС: дать определение","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ИС: дать определение","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ООП: дать определение инкапсуляции","format":"definition","result":"partial","uncertain":false,"gap":"Указать объединение данных и методов и сокрытие реализации"}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"Модели жизненного цикла: распознать спиралевидную модель","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"UML: отличить агрегацию от композиции","format":"choice","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"Архитектура: отличить архитектуру ИС от архитектуры ПО","format":"definition","result":"correct","uncertain":true,"gap":"Вспомнить, что архитектура ПО включает интерфейсы компонентов"}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ООП: дать определение инкапсуляции","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ТЗ: отличить функциональные требования от нефункциональных","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ТЗ: отличить функциональные требования от нефункциональных","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"Интерфейс: назвать принцип ООП по формулировке курса","format":"fill","result":"partial","uncertain":true,"gap":"Для формулировки курса выбрать только инкапсуляцию; отличать сокрытие реализации от взаимозаменяемости реализаций"}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"Модели жизненного цикла: распознать V-образную модель","format":"fill","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ТЗ: отличить функциональные требования от нефункциональных","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"Интерфейс: назвать принцип ООП по формулировке курса","format":"fill","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ООП: дать определение полиморфизма","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"Архитектура: отличить архитектуру ИС от архитектуры ПО","format":"choice","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ООП: дать определение абстракции","format":"definition","result":"partial","uncertain":true,"gap":"Уточнить: выделяем существенные для конкретной задачи свойства и действия объекта"}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ТЗ: вспомнить разделы","format":"fill","result":"correct","uncertain":false,"gap":"Не смешивать основные разделы ТЗ из конспекта с отдельными видами требований"}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ООП: дать определение наследования","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ООП: дать определение абстракции","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-02","skill":"ОО-проектирование: отличить связность от увязки классов","format":"definition","result":"correct","uncertain":false}
