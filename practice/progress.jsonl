@@ -1,0 +1,15 @@
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"ТЗ: дать определение","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"Модели жизненного цикла: распознать спиралевидную модель","format":"choice","result":"wrong","uncertain":false,"gap":"Отличить выбор работы по рискам от связи проектирования с тестированием"}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"ТЗ: вспомнить разделы","format":"fill","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"ИС: дать определение","format":"definition","result":"partial","uncertain":true,"gap":"Указать, что это компьютерная система, обрабатывающая данные о предметной области"}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"Модели жизненного цикла: распознать спиралевидную модель","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"Система: отличить состояние от поведения","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"Система: отличить состояние от поведения","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"ИС: дать определение","format":"definition","result":"partial","uncertain":true,"gap":"Связать предметную область с данными: система обрабатывает данные о предметной области"}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"Сложная система: сравнить силу связей внутри и между компонентами","format":"choice","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"Архитектура: отличить архитектуру ИС от архитектуры ПО","format":"definition","result":"partial","uncertain":true,"gap":"Архитектура ИС описывает систему в целом с учётом окружения, а не только взаимодействие с ним"}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"ИС: дать определение","format":"definition","result":"partial","uncertain":false,"gap":"Добавить, что ИС — компьютерная система"}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"Классификация ИС: назвать виды по масштабу","format":"fill","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"Архитектура: отличить архитектуру ИС от архитектуры ПО","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"Методы проектирования: распознать модельно-ориентированное проектирование","format":"choice","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-01","skill":"ИС: дать определение","format":"definition","result":"correct","uncertain":false}
