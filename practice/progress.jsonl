@@ -32,3 +32,65 @@
 {"date":"2026-11-26","session":"2026-11-26-02","skill":"ООП: дать определение наследования","format":"definition","result":"correct","uncertain":false}
 {"date":"2026-11-26","session":"2026-11-26-02","skill":"ООП: дать определение абстракции","format":"definition","result":"correct","uncertain":false}
 {"date":"2026-11-26","session":"2026-11-26-02","skill":"ОО-проектирование: отличить связность от увязки классов","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать ассоциацию по обозначению","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: отличить агрегацию от композиции","format":"match","result":"partial","uncertain":false,"gap":"Указать, что пустой ромб стоит со стороны целого"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: отличить агрегацию от композиции","format":"match","result":"partial","uncertain":false,"gap":"Указать, что закрашенный ромб стоит со стороны целого"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"ООП: дать определение инкапсуляции","format":"definition","result":"partial","uncertain":true,"gap":"Вспомнить объединение данных и методов работы с ними"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: прочитать обозначение атрибута","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: прочитать сигнатуру операции","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: отличить агрегацию от композиции","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"ООП: дать определение инкапсуляции","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы состояний","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы последовательности","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы деятельности","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"ТЗ: отличить функциональные требования от нефункциональных","format":"definition","result":"partial","uncertain":false,"gap":"Сформулировать конкретные примеры обоих видов требований к одной системе"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: определить направление include","format":"match","result":"partial","uncertain":false,"gap":"Стрелка идёт от основного прецедента к включаемому"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: определить направление extend","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: прочитать кратность ассоциации","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"ТЗ: отличить функциональные требования от нефункциональных","format":"definition","result":"correct","uncertain":true,"gap":"Формулировать функцию через действие системы или возможность пользователя"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: определить направление include","format":"fill","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы компонентов","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы развёртывания","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"Интерфейс: назвать принцип ООП по формулировке курса","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: отличить решение от разделения потока","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: отличить решение от разделения потока","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать обобщение по обозначению","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать реализацию интерфейса по обозначению","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать зависимость по обозначению","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: прочитать обозначение экземпляра на диаграмме объектов","format":"definition","result":"partial","uncertain":false,"gap":"Различить имя экземпляра и имя переменной; после двоеточия указан класс экземпляра"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: различить предоставляемый и требуемый интерфейсы по обозначению","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: различить предоставляемый и требуемый интерфейсы по обозначению","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: объяснить линию жизни на диаграмме последовательности","format":"definition","result":"partial","uncertain":true,"gap":"Линия жизни показывает участника во времени, сверху вниз"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать активацию на диаграмме последовательности","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать уничтожение участника на диаграмме последовательности","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: прочитать обозначение экземпляра на диаграмме объектов","format":"fill","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать синхронный вызов по стрелке","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать асинхронное сообщение по стрелке","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать возврат результата по стрелке","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: объяснить линию жизни на диаграмме последовательности","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: отличить прецедент от сценария","format":"definition","result":"partial","uncertain":false,"gap":"Сценарий описывает один конкретный ход событий, в том числе неуспешный"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"ОО-проектирование: отличить связность от увязки классов","format":"definition","result":"correct","uncertain":true,"gap":"Проверять связность по общей цели методов и данных, а не по их размещению в одном классе"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы пакетов","format":"definition","result":"correct","uncertain":true,"gap":"Вспомнить точное название: диаграмма пакетов"}
+{"date":"2026-11-26","session":"2026-11-26-03","skill":"UML: распознать стереотип access на диаграмме пакетов","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отличить прецедент от сценария","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отнести диаграмму классов к диаграммам структуры","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отнести диаграмму деятельности к диаграммам поведения","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отнести диаграмму последовательности к диаграммам поведения","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отличить диаграммы взаимодействия от других диаграмм поведения","format":"match","result":"correct","uncertain":true,"gap":"Различать обмен сообщениями и поток действий независимо от числа участников"}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отличить финал потока от финала деятельности","format":"match","result":"partial","uncertain":true,"gap":"Вспомнить точное название узла с крестиком: финал потока (flow final)"}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отличить финал потока от финала деятельности","format":"match","result":"correct","uncertain":true}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы состояний","format":"match","result":"wrong","uncertain":false,"gap":"Отличать состояния одного объекта и переходы между ними от шагов процесса"}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы последовательности","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отличить соединение альтернатив от слияния параллельных потоков","format":"match","result":"partial","uncertain":true,"gap":"Вспомнить имя узла merge и то, что он пропускает альтернативную ветку без ожидания остальных"}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отличить соединение альтернатив от слияния параллельных потоков","format":"match","result":"correct","uncertain":true,"gap":"Вспомнить русское название join: слияние"}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отличить финал потока от финала деятельности","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отличить финал потока от финала деятельности","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы состояний","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы деятельности","format":"match","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отличить соединение альтернатив от слияния параллельных потоков","format":"match","result":"correct","uncertain":true,"gap":"Вспомнить русское название join: слияние"}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы составной структуры","format":"definition","result":"wrong","uncertain":true,"gap":"Вспомнить название диаграммы, которая показывает внутренние части класса и их связи"}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: отличить соединение альтернатив от слияния параллельных потоков","format":"definition","result":"correct","uncertain":false}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы составной структуры","format":"definition","result":"wrong","uncertain":false,"gap":"Отличать внутренние части одного класса от компонентов системы и их интерфейсов"}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: объяснить назначение профиля и диаграммы профилей","format":"definition","result":"partial","uncertain":false,"gap":"Метакласс расширяет стереотип через отношение расширения; профиль не наследуется от метакласса"}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы составной структуры","format":"match","result":"correct","uncertain":true,"gap":"Закрепить точное название: диаграмма составной структуры"}
+{"date":"2026-11-27","session":"2026-11-26-03","skill":"UML: распознать назначение диаграммы компонентов","format":"match","result":"correct","uncertain":false}
