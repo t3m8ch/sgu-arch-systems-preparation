@@ -1,0 +1,10 @@
+@startuml
+left to right direction
+actor "Сотрудник" as Employee
+rectangle "Рыбы · Система заказа обедов" {
+  usecase "Заказать обед" as Order
+  usecase "Проверить\nдоступность блюд" as Availability
+  Order .down.> Availability : <<include>>
+}
+Employee -- Order
+@enduml

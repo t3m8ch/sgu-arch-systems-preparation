@@ -1,0 +1,11 @@
+@startuml
+hide empty members
+hide circle
+class "Компьютер" as Computer
+class "Жёсткий диск" as Disk
+class "Окно приложения" as Window
+class "Кнопка" as Button
+Computer "1" o-down- "*" Disk
+Window "1" *-down- "*" Button
+Computer -[hidden]right- Window
+@enduml

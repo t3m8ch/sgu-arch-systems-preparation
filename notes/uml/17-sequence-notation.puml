@@ -1,0 +1,12 @@
+@startuml
+hide footbox
+actor Актор as A
+participant "<u>Объект</u>" as O
+A -> O : Вызов процедуры
+activate O
+O -->> A : Возврат результата
+deactivate O
+A ->> O : Асинхронное сообщение
+note right of O : Комментарий
+A -> O !! : Уничтожение объекта
+@enduml

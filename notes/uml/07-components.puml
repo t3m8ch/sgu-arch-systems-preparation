@@ -1,0 +1,11 @@
+@startuml
+skinparam componentStyle uml2
+component "Потребитель" as Consumer
+component "Поставщик" as Provider {
+  port " " as Port
+}
+Consumer -(0- Port
+component "Зависимый компонент" as A
+component "Другой компонент" as B
+A .right.> B
+@enduml

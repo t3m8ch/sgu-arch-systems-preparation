@@ -1,0 +1,7 @@
+@startuml
+hide empty members
+hide circle
+class "Фигура" as Figure
+class "Квадрат" as Square
+Figure <|-- Square
+@enduml

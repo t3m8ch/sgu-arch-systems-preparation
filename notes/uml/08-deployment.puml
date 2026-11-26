@@ -1,0 +1,9 @@
+@startuml
+node "БД Заказчики" as Customers <<База данных>>
+node "БД Продажи" as Sales <<База данных>>
+node "Продажи и обслуживание" as App <<Сервер приложений>>
+node "Экран обслуживания клиента" as Screen <<Клиент>>
+Customers -- App
+Sales -- App
+App -- Screen
+@enduml

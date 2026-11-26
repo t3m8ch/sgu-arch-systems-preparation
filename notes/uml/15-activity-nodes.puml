@@ -1,0 +1,15 @@
+@startuml
+start
+skinparam conditionStyle diamond
+if (Условие) then ([да])
+  :Ветка 1;
+else ([нет])
+  :Ветка 2;
+endif
+fork
+  :Параллельное действие 1;
+fork again
+  :Параллельное действие 2;
+end fork
+stop
+@enduml

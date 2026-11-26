@@ -1,0 +1,9 @@
+@startuml
+actor "Преподаватель" as Teacher
+usecase "Поставить оценку" as Grade
+Teacher -right- Grade
+actor "Покупатель" as Customer
+usecase "Оплатить заказ" as Pay
+Customer -right- Pay
+Teacher -[hidden]down- Customer
+@enduml

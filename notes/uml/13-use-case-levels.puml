@@ -1,0 +1,8 @@
+@startuml
+left to right direction
+actor "Офис-менеджер" as Manager
+rectangle "Воздушный змей · Офис" {
+  usecase "Организовать обеды" as Organize
+}
+Manager -- Organize
+@enduml

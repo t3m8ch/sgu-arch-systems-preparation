@@ -1,0 +1,9 @@
+@startuml
+hide empty members
+hide circle
+class ClientsView
+class Client
+class ClientsRepository
+ClientsView .right.> Client
+Client .right.> ClientsRepository
+@enduml

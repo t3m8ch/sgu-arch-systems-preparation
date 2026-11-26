@@ -1,0 +1,8 @@
+@startuml
+object "p: Сотрудник" as Employee {
+  Имя = "Алексей"
+  Зарплата = 90000
+}
+object "c: Компания" as Company
+Employee -right- Company
+@enduml

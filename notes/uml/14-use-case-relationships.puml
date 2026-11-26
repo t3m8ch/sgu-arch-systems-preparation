@@ -1,0 +1,7 @@
+@startuml
+usecase "Пройти обучение" as Training
+usecase "Выполнить практические\nзадания" as Practice
+usecase "Изучить дополнительную\nлитературу" as Reading
+Training .down.> Practice : <<include>>
+Reading .left.> Practice : <<extend>>
+@enduml

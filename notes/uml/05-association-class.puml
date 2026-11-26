@@ -1,0 +1,9 @@
+@startuml
+hide empty members
+hide circle
+class "Разработчик" as Developer
+class "Компания" as Company
+class "Контракт" as Contract
+Developer "1..*" - "*" Company
+(Developer, Company) .. Contract
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+left to right direction
+actor "Сотрудник" as Employee
+actor "Офис-менеджер" as Manager
+rectangle "Море · Система заказа обедов" {
+  usecase "Заказать обед" as Order
+  usecase "Опубликовать меню" as Menu
+  usecase "Оплатить счёт" as Pay
+}
+Employee -- Order
+Manager -- Menu
+Manager -- Pay
+@enduml

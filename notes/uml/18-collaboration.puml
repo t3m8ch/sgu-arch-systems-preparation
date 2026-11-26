@@ -1,0 +1,10 @@
+@startuml
+usecase "Ежедневное\nрезервное копирование" as Backup
+skinparam usecaseBorderStyle dashed
+rectangle "Компьютер" as Computer
+rectangle "ПО" as Software
+rectangle "Диск" as Disk
+Backup .down.> Computer : хост
+Backup .down.> Software : копировщик
+Backup .down.> Disk : хранилище
+@enduml

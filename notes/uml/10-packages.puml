@@ -1,0 +1,5 @@
+@startuml
+package "Мой пакет" as Mine {}
+package "Другой пакет" as Other {}
+Mine .right.> Other : <<access>>
+@enduml

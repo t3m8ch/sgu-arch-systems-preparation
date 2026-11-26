@@ -1,0 +1,5 @@
+@startuml
+component StorageSource
+component Controller
+StorageSource -0)- Controller : IMediaStorage
+@enduml

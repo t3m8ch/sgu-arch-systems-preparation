@@ -1,0 +1,15 @@
+@startuml
+hide empty members
+hide circle
+class "A" as A1
+class "B" as B1
+class "A" as A2
+class "B" as B2
+class "A" as A3
+class "B" as B3
+A1 -right-> B1 : однонаправленная
+A2 <-right-> B2 : двунаправленная
+A3 -right- B3 : без указания направления
+A1 -[hidden]down- A2
+A2 -[hidden]down- A3
+@enduml

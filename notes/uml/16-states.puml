@@ -1,0 +1,8 @@
+@startuml
+left to right direction
+state "В подготовке" as Draft
+state "Сдано" as Submitted
+[*] --> Draft
+Draft --> Submitted
+Submitted --> [*]
+@enduml

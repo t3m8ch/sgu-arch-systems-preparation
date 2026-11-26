@@ -1,0 +1,7 @@
+@startuml
+rectangle "Class" {
+  rectangle "part1: Type[0..2]" as Part1
+  rectangle "part2: Type[1]" as Part2
+  Part1 -right- Part2
+}
+@enduml

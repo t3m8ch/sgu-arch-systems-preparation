@@ -1,0 +1,5 @@
+@startuml
+start
+:Действие в текущем потоке;
+end
+@enduml
